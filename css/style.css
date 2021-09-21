@@ -1,0 +1,226 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 500;
+  background-color: #F4EADD;
+  background-repeat: no-repeat;
+  background-position: 252% 20%;
+  background-size: 67% 25%;
+}
+img { max-width: 100%; }
+
+header {
+  /* background-color: red; */
+}
+.work-details{
+  display: flex;
+}
+.work-details form{
+  margin-right: 35px;
+}
+.heading-top{
+  text-align: center;
+}
+
+
+.navbar-brand{
+  margin-left: 103px;
+  width: 200px !important;
+}
+.service-btn {
+  /* Style for "Rectangle" */
+width: 161px;
+height: 56px;
+box-shadow: 0 0 10px rgba(217, 3, 34, 0.18);
+background-color: #342014;
+border-radius: 30px;
+margin-top: 40px;
+color: #ffffff;
+font-size: 20px;
+}
+
+.banner-image{
+  margin-top: 30px;
+}
+
+
+.service-tagline{
+  display: flex;
+  justify-content: center;
+}
+.second-banner p{
+  width: 80%;
+}
+.banner-sec{
+  margin-bottom: 50px;
+}
+/* lndsandaskjllkjhkhjghdfghjklkjhgfgghjkl;kjhgfddlkd */
+.sticky {
+  position: relative;
+  top: 0;
+  z-index: 1;
+}
+
+/* header end */
+.banner {
+  /*padding-top: 50px; */
+  font-size: 28px;
+    font-weight: 700;
+    line-height: 55px;
+    color: #342014;
+}
+
+.heading-top h1 {
+  /* Style for "Broadband" */
+
+  color: #342014;
+  font-size: 60px !important;
+  font-weight: 800;
+  line-height: 59.65px;
+}
+
+.heading-top h3 {
+  /* Style for "Lorem Ipsu" */
+  width: 100%;
+  height: auto;
+  color: #342014;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 32px;
+  margin-top: 18px;
+  ;
+}
+
+.banner-logo {
+  width: 100%;
+}
+.banner-logo .img-fluid{
+  width: 70%;
+}
+
+.title {
+  /* Style for "Our Work" */
+  text-align: center;
+  margin-top: 60px;
+  color: #342014;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+
+.work-subtitle {
+  /* Style for "Experience" */
+  color: #342014;
+  font-family: "Open Sans";
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 55.93px;
+  margin-bottom: 39px;
+}
+
+.antec-color {
+  color: red;
+}
+
+.work-details {
+  /* Style for "Lorem Ipsu" */
+  justify-content: center;
+  color: #888888;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 38px;
+  text-align: center;
+ }
+.product{
+  text-align: center;
+}
+
+.our-product {
+  margin-top: 92px;
+  margin-bottom: 160px;
+}
+
+.work-detail {
+  /* Style for "Lorem Ipsu" */
+  width: 191px;
+  height: 67px;
+  color: #6b6b6b;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 25px;
+  margin-top: 35px;
+
+}
+
+
+
+.mail-contact {
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 31px;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+.mail-contact:hover {
+  opacity: 0.5;
+  transition: all 0.5s ease-in-out;
+}
+.email {
+  border: 1px solid #D7D7D7;
+  background: transparent;
+}
+.email:focus {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  box-shadow: none;
+}
+.email::placeholder {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.social-logo {
+  margin-right: 23px;
+  cursor: pointer;
+}
+.footer-copyright {
+  padding: 26px 0px 24px 0px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.copyright{
+  background-color: #E00323;
+  position:relative;
+  margin-top: 5%;
+}
+.footer-email{
+  outline: none;
+}
+
+.footer-copyright {
+  /* Style for "Subscribe" */
+color: #FFFFFF;
+font-size: 16px;
+text-transform: uppercase;
+margin-left: 12%;
+}
+.contact-menu{
+    float: left;
+}
+.footer-email{
+    border-radius:0px;
+    width: 100%;
+    padding: 12px 20px;
+    background: #342014;
+    border: 1px solid #d7d7d7;
+    color: #ffffff;
+}
+
+.footer-email::placeholder{
+  color: #ffffff;
+}
